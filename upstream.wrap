@@ -1,0 +1,6 @@
+[wrap-file]
+directory = Catch2-2.4.1
+
+source_url = https://github.com/catchorg/Catch2/archive/v2.4.1.zip
+source_filename = Catch2-2.4.1.zip
+source_hash = cc3f04a62f8b099175625385e885bb1b6277bd17bda9a2d55052eaab1917be79
