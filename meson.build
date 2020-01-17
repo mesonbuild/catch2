@@ -1,6 +1,6 @@
 project('catch2',
     'cpp',
-    version : '2.9.0',
+    version : '2.11.1',
     license : 'Boost'
 )
 
